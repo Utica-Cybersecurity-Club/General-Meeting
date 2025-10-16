@@ -47,6 +47,10 @@ Networking:
 | Date | Topic |
 |------|-------|
 | [Networking](./Networking/) | Intro to Networking and Wireshark |
+| [Programming](./Programming/) | Intro into Programming with Python and Bash |
+| [Navigation and Permissions](./Navigation%20and%20Permissions/) | Intro into OS Navigation and file permissions |
+| [Attack Surface](./Attack%20Surface/) | Defines and Identifies Attack Sufaces |
+| [Access Control](./Access%20Control/) | Demonstrates Access Control through ZTA |
 
 ---
 
