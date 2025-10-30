@@ -51,6 +51,8 @@ Networking:
 | [Navigation and Permissions](./Navigation%20and%20Permissions/) | Intro into OS Navigation and file permissions |
 | [Attack Surface](./Attack%20Surface/) | Defines and Identifies Attack Sufaces |
 | [Access Control](./Access%20Control/) | Demonstrates Access Control through ZTA |
+| [SOC](./SOC/) | Intro into Security Operations Center |
+| [Intro to IR](./Intro%20to%20IR/) | Intro into Incident Response lifecycle |
 
 ---
 
